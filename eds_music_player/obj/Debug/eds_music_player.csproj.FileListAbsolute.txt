@@ -1,0 +1,15 @@
+C:\Users\Eduardo\source\repos\eds_music_player\bin\Debug\eds_music_player.exe.config
+C:\Users\Eduardo\source\repos\eds_music_player\bin\Debug\eds_music_player.exe
+C:\Users\Eduardo\source\repos\eds_music_player\bin\Debug\eds_music_player.pdb
+C:\Users\Eduardo\source\repos\eds_music_player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Eduardo\source\repos\eds_music_player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Eduardo\source\repos\eds_music_player\obj\Debug\eds_music_player.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\eds_music_player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Eduardo\source\repos\eds_music_player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Eduardo\source\repos\eds_music_player\obj\Debug\eds_music_player.csproj.ResolveComReference.cache
+C:\Users\Eduardo\source\repos\eds_music_player\obj\Debug\eds_music_player.Form1.resources
+C:\Users\Eduardo\source\repos\eds_music_player\obj\Debug\eds_music_player.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\eds_music_player\obj\Debug\eds_music_player.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\eds_music_player\obj\Debug\eds_music_player.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\eds_music_player\obj\Debug\eds_music_player.exe
+C:\Users\Eduardo\source\repos\eds_music_player\obj\Debug\eds_music_player.pdb
